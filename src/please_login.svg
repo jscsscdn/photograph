@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="309px" viewBox="0 0 500 309" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>未命名</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" x="0" y="0" width="500" height="309"></rect>
+            <text id="Please-Login" font-family="AnoStencilW00-Light" font-size="64" font-weight="normal" fill="#4A4A4A">
+                <tspan x="70.416" y="124">Please Login</tspan>
+            </text>
+            <text id="请登陆后浏览" font-family="-HYLiangPinXianJ,  HYLiangPinXianJ" font-size="64" font-weight="normal" fill="#4A4A4A">
+                <tspan x="58" y="225">请登陆后浏览</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
